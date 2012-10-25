@@ -1,4 +1,4 @@
 rubyconf2012-iCal
 =================
 
-iCal calendar for Ruby Conference 2012
+Ruby Conference 2012 schedule in iCal format for importing into your Mac or iOS device.
